@@ -1,26 +1,26 @@
 {
-  "name": "AFK Bot",
+  "name": "botcuk",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "botcuk",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Kaos-SMP.aternos.me",
+    "port": 27511,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -265,
+    "y": 18,
+    "z": 108
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
-      "password": "YourAuthPassword"
+      "enabled": false,
+      "password": "bot12345"
     },
     "anti-afk": {
       "enabled": true,
